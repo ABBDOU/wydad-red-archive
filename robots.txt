@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abbdou.github.io/wydad-red-archive/sitemap.xml
